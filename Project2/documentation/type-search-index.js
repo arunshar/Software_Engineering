@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"svs","l":"Ballot"},{"p":"svs","l":"BallotFactory"},{"p":"svs","l":"BallotFileChooser"},{"p":"svs","l":"Candidate"},{"p":"svs","l":"ElectionController"},{"p":"svs","l":"HelpWindow"},{"p":"svs","l":"MainWindow"},{"p":"svs","l":"PluralityController"},{"p":"svs","l":"STVDroopController"},{"p":"svs","l":"SVS"}]
